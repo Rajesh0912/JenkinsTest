@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		008BF4B362276BED55C61FE1 /* Pods_GrantInspectionTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D565BEEFFDCDD32CD88C25 /* Pods_GrantInspectionTests.framework */; };
 		042254B7234C95DE00CC1A88 /* SatelliteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042254B6234C95DE00CC1A88 /* SatelliteViewModel.swift */; };
 		042254B9234C9C0D00CC1A88 /* SatelliteServiceCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042254B8234C9C0D00CC1A88 /* SatelliteServiceCall.swift */; };
 		042FC890232A1E8C00B9ED9C /* Img5.png in Resources */ = {isa = PBXBuildFile; fileRef = 042FC88B232A1E8B00B9ED9C /* Img5.png */; };
@@ -23,13 +22,13 @@
 		2DCA71CE23FE68C3004F905A /* ConfirmationPopUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCA71CD23FE68C3004F905A /* ConfirmationPopUpView.swift */; };
 		2DCA71D023FE68D4004F905A /* ConfirmationPopUpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2DCA71CF23FE68D4004F905A /* ConfirmationPopUpView.xib */; };
 		2DE18CAE23F1596900A747CE /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE18CAD23F1596900A747CE /* SettingsViewController.swift */; };
-		310C59D0BBF884F7B1C9E97F /* Pods_GrantInspection.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03F712B1A93EC796D02A644D /* Pods_GrantInspection.framework */; };
 		4204365A233B4E160039A3F0 /* CategoryUploadService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42043659233B4E160039A3F0 /* CategoryUploadService.swift */; };
 		4204365C233B6C270039A3F0 /* CategoryUploadModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204365B233B6C270039A3F0 /* CategoryUploadModule.swift */; };
 		4240B9202340C2870052BEF2 /* DownloadAttachmentService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4240B91F2340C2870052BEF2 /* DownloadAttachmentService.swift */; };
 		4240B9222340D2940052BEF2 /* DownloadAttachmentModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4240B9212340D2940052BEF2 /* DownloadAttachmentModule.swift */; };
 		42B707D8234B4F2600326EF1 /* AttachmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B707D7234B4F2600326EF1 /* AttachmentViewController.swift */; };
 		42B707DA234B7A3F00326EF1 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42B707D9234B7A3F00326EF1 /* WebKit.framework */; };
+		4B4DA980BA15A3047B1D1E04 /* Pods_GrantInspectionTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E985D00B09A7E5F6256C2E2B /* Pods_GrantInspectionTests.framework */; };
 		842424092331EC49008C15C9 /* ImagePreviewToSaveView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 842424072331EC49008C15C9 /* ImagePreviewToSaveView.xib */; };
 		8424240A2331EC49008C15C9 /* ImagePreviewToSaveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842424082331EC49008C15C9 /* ImagePreviewToSaveView.swift */; };
 		845F13EB2355DC280091B2E7 /* FacilitiesDeleteService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845F13EA2355DC280091B2E7 /* FacilitiesDeleteService.swift */; };
@@ -274,6 +273,7 @@
 		9AE1C00922770202002194BD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9AE1BE912276F8A2002194BD /* GoogleService-Info.plist */; };
 		9AE1C00C22770BEE002194BD /* Localization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE1C00B22770BEE002194BD /* Localization.swift */; };
 		9AE1C00E22770CC1002194BD /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE1C00D22770CC1002194BD /* String+Extension.swift */; };
+		9D5DAF4F7147514C6CC89A4B /* Pods_GrantInspection.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57235D49F025E329CE0E9F4C /* Pods_GrantInspection.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -287,7 +287,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03F712B1A93EC796D02A644D /* Pods_GrantInspection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrantInspection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		042254B6234C95DE00CC1A88 /* SatelliteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SatelliteViewModel.swift; sourceTree = "<group>"; };
 		042254B8234C9C0D00CC1A88 /* SatelliteServiceCall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SatelliteServiceCall.swift; sourceTree = "<group>"; };
 		042FC88B232A1E8B00B9ED9C /* Img5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Img5.png; sourceTree = "<group>"; };
@@ -303,14 +302,14 @@
 		2DCA71CD23FE68C3004F905A /* ConfirmationPopUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationPopUpView.swift; sourceTree = "<group>"; };
 		2DCA71CF23FE68D4004F905A /* ConfirmationPopUpView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ConfirmationPopUpView.xib; sourceTree = "<group>"; };
 		2DE18CAD23F1596900A747CE /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3811DDBBB21ED17E8A4E776C /* Pods-GrantInspectionTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspectionTests.debug.xcconfig"; path = "Target Support Files/Pods-GrantInspectionTests/Pods-GrantInspectionTests.debug.xcconfig"; sourceTree = "<group>"; };
 		42043659233B4E160039A3F0 /* CategoryUploadService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryUploadService.swift; sourceTree = "<group>"; };
 		4204365B233B6C270039A3F0 /* CategoryUploadModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryUploadModule.swift; sourceTree = "<group>"; };
 		4240B91F2340C2870052BEF2 /* DownloadAttachmentService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadAttachmentService.swift; sourceTree = "<group>"; };
 		4240B9212340D2940052BEF2 /* DownloadAttachmentModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadAttachmentModule.swift; sourceTree = "<group>"; };
 		42B707D7234B4F2600326EF1 /* AttachmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttachmentViewController.swift; sourceTree = "<group>"; };
 		42B707D9234B7A3F00326EF1 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
-		52D565BEEFFDCDD32CD88C25 /* Pods_GrantInspectionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrantInspectionTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		69499DF49D6A649D3CE274E9 /* Pods-GrantInspection.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspection.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GrantInspection/Pods-GrantInspection.debug.xcconfig"; sourceTree = "<group>"; };
+		57235D49F025E329CE0E9F4C /* Pods_GrantInspection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrantInspection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		842424072331EC49008C15C9 /* ImagePreviewToSaveView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ImagePreviewToSaveView.xib; sourceTree = "<group>"; };
 		842424082331EC49008C15C9 /* ImagePreviewToSaveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePreviewToSaveView.swift; sourceTree = "<group>"; };
 		845F13EA2355DC280091B2E7 /* FacilitiesDeleteService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitiesDeleteService.swift; sourceTree = "<group>"; };
@@ -405,6 +404,7 @@
 		8EF7CDBA2317D3DC0084AA17 /* BuildingElementView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BuildingElementView.xib; sourceTree = "<group>"; };
 		8EF7CDBC2317DF6B0084AA17 /* BuildingElementCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingElementCell.swift; sourceTree = "<group>"; };
 		8EF7CDBD2317DF6B0084AA17 /* BuildingElementCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BuildingElementCell.xib; sourceTree = "<group>"; };
+		966D3B253A0DAE457C84E94A /* Pods-GrantInspection.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspection.debug.xcconfig"; path = "Target Support Files/Pods-GrantInspection/Pods-GrantInspection.debug.xcconfig"; sourceTree = "<group>"; };
 		9A653C9F231BA3A200E0BD14 /* SearchplotCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchplotCustomCell.swift; sourceTree = "<group>"; };
 		9A653CA0231BA3A200E0BD14 /* SearchplotCustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchplotCustomCell.xib; sourceTree = "<group>"; };
 		9A653CA1231BA3A200E0BD14 /* SearchPlotView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchPlotView.swift; sourceTree = "<group>"; };
@@ -559,9 +559,9 @@
 		9AE1C00A22770BA1002194BD /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		9AE1C00B22770BEE002194BD /* Localization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localization.swift; sourceTree = "<group>"; };
 		9AE1C00D22770CC1002194BD /* String+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
-		D717EE077796FE45F2D723F8 /* Pods-GrantInspection.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspection.release.xcconfig"; path = "Pods/Target Support Files/Pods-GrantInspection/Pods-GrantInspection.release.xcconfig"; sourceTree = "<group>"; };
-		F255071F6008751EFBEC0D3E /* Pods-GrantInspectionTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspectionTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GrantInspectionTests/Pods-GrantInspectionTests.debug.xcconfig"; sourceTree = "<group>"; };
-		F45ECE7A0B3EC03940F3175C /* Pods-GrantInspectionTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspectionTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GrantInspectionTests/Pods-GrantInspectionTests.release.xcconfig"; sourceTree = "<group>"; };
+		D31ED51F8B4E93640F897253 /* Pods-GrantInspectionTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspectionTests.release.xcconfig"; path = "Target Support Files/Pods-GrantInspectionTests/Pods-GrantInspectionTests.release.xcconfig"; sourceTree = "<group>"; };
+		D53491D82AA1C435491385E0 /* Pods-GrantInspection.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GrantInspection.release.xcconfig"; path = "Target Support Files/Pods-GrantInspection/Pods-GrantInspection.release.xcconfig"; sourceTree = "<group>"; };
+		E985D00B09A7E5F6256C2E2B /* Pods_GrantInspectionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrantInspectionTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F63762C6217887CA0049FAF8 /* GrantInspectionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GrantInspectionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F63AE7DB20BFF12600B1EE07 /* GrantInspection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrantInspection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -572,7 +572,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9AE1C000227700CC002194BD /* XCTest.framework in Frameworks */,
-				008BF4B362276BED55C61FE1 /* Pods_GrantInspectionTests.framework in Frameworks */,
+				4B4DA980BA15A3047B1D1E04 /* Pods_GrantInspectionTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -581,7 +581,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42B707DA234B7A3F00326EF1 /* WebKit.framework in Frameworks */,
-				310C59D0BBF884F7B1C9E97F /* Pods_GrantInspection.framework in Frameworks */,
+				9D5DAF4F7147514C6CC89A4B /* Pods_GrantInspection.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -652,6 +652,18 @@
 				2DCA71CF23FE68D4004F905A /* ConfirmationPopUpView.xib */,
 			);
 			path = ConfirmationPopUp;
+			sourceTree = "<group>";
+		};
+		559FBAC8D43F67AB3017BB0C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				966D3B253A0DAE457C84E94A /* Pods-GrantInspection.debug.xcconfig */,
+				D53491D82AA1C435491385E0 /* Pods-GrantInspection.release.xcconfig */,
+				3811DDBBB21ED17E8A4E776C /* Pods-GrantInspectionTests.debug.xcconfig */,
+				D31ED51F8B4E93640F897253 /* Pods-GrantInspectionTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		842424062331EC15008C15C9 /* ImagePreviewToSave */ = {
@@ -1889,21 +1901,10 @@
 			children = (
 				42B707D9234B7A3F00326EF1 /* WebKit.framework */,
 				9AE1BFFE227700A4002194BD /* XCTest.framework */,
-				03F712B1A93EC796D02A644D /* Pods_GrantInspection.framework */,
-				52D565BEEFFDCDD32CD88C25 /* Pods_GrantInspectionTests.framework */,
+				57235D49F025E329CE0E9F4C /* Pods_GrantInspection.framework */,
+				E985D00B09A7E5F6256C2E2B /* Pods_GrantInspectionTests.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D1DD4EE9CD47DCEB06E2AF29 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				69499DF49D6A649D3CE274E9 /* Pods-GrantInspection.debug.xcconfig */,
-				D717EE077796FE45F2D723F8 /* Pods-GrantInspection.release.xcconfig */,
-				F255071F6008751EFBEC0D3E /* Pods-GrantInspectionTests.debug.xcconfig */,
-				F45ECE7A0B3EC03940F3175C /* Pods-GrantInspectionTests.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		F63AE7D220BFF12600B1EE07 = {
@@ -1912,8 +1913,8 @@
 				9AE1BE882276F8A2002194BD /* GrantInspection */,
 				9AE1BFE72276F8B3002194BD /* GrantInspectionTests */,
 				F63AE7DC20BFF12600B1EE07 /* Products */,
-				D1DD4EE9CD47DCEB06E2AF29 /* Pods */,
 				B5445B249108F30B67191AE7 /* Frameworks */,
+				559FBAC8D43F67AB3017BB0C /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1933,11 +1934,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F63762CD217887CA0049FAF8 /* Build configuration list for PBXNativeTarget "GrantInspectionTests" */;
 			buildPhases = (
-				20F6B971C98541E2F099EF8B /* [CP] Check Pods Manifest.lock */,
+				C0BE62A081139F6FCA53669D /* [CP] Check Pods Manifest.lock */,
 				F63762C2217887CA0049FAF8 /* Sources */,
 				F63762C3217887CA0049FAF8 /* Frameworks */,
 				F63762C4217887CA0049FAF8 /* Resources */,
-				8F15A44638CB17FC8CF0D656 /* [CP] Embed Pods Frameworks */,
+				ED6D6BCD117457EAF61927F9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -1953,13 +1954,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F63AE7ED20BFF12800B1EE07 /* Build configuration list for PBXNativeTarget "GrantInspection" */;
 			buildPhases = (
-				235C78A757821085911B757C /* [CP] Check Pods Manifest.lock */,
+				935E99490B91524B5849DA1C /* [CP] Check Pods Manifest.lock */,
 				F63AE7D720BFF12600B1EE07 /* Sources */,
 				F63AE7D820BFF12600B1EE07 /* Frameworks */,
 				F63AE7D920BFF12600B1EE07 /* Resources */,
 				F6B56B0122279812002B211B /* ShellScript */,
-				BE6D49460CAE5B33D50B4AF1 /* [CP] Embed Pods Frameworks */,
-				B51070631F6F273FB888D704 /* [CP] Copy Pods Resources */,
+				1592ECB108746167E3804DD9 /* [CP] Embed Pods Frameworks */,
+				08B89A3B12325CA4D40E3605 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -2100,7 +2101,63 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		20F6B971C98541E2F099EF8B /* [CP] Check Pods Manifest.lock */ = {
+		08B89A3B12325CA4D40E3605 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1592ECB108746167E3804DD9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		935E99490B91524B5849DA1C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GrantInspection-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C0BE62A081139F6FCA53669D /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2122,25 +2179,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		235C78A757821085911B757C /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-GrantInspection-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8F15A44638CB17FC8CF0D656 /* [CP] Embed Pods Frameworks */ = {
+		ED6D6BCD117457EAF61927F9 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2155,40 +2194,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GrantInspectionTests/Pods-GrantInspectionTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		B51070631F6F273FB888D704 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BE6D49460CAE5B33D50B4AF1 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GrantInspection/Pods-GrantInspection-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F6B56B0122279812002B211B /* ShellScript */ = {
@@ -2455,7 +2460,7 @@
 /* Begin XCBuildConfiguration section */
 		F63762CE217887CA0049FAF8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F255071F6008751EFBEC0D3E /* Pods-GrantInspectionTests.debug.xcconfig */;
+			baseConfigurationReference = 3811DDBBB21ED17E8A4E776C /* Pods-GrantInspectionTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ENABLE_MODULES = YES;
@@ -2485,7 +2490,7 @@
 		};
 		F63762CF217887CA0049FAF8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F45ECE7A0B3EC03940F3175C /* Pods-GrantInspectionTests.release.xcconfig */;
+			baseConfigurationReference = D31ED51F8B4E93640F897253 /* Pods-GrantInspectionTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ENABLE_MODULES = YES;
@@ -2630,7 +2635,7 @@
 		};
 		F63AE7EE20BFF12800B1EE07 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 69499DF49D6A649D3CE274E9 /* Pods-GrantInspection.debug.xcconfig */;
+			baseConfigurationReference = 966D3B253A0DAE457C84E94A /* Pods-GrantInspection.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -2655,7 +2660,7 @@
 		};
 		F63AE7EF20BFF12800B1EE07 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D717EE077796FE45F2D723F8 /* Pods-GrantInspection.release.xcconfig */;
+			baseConfigurationReference = D53491D82AA1C435491385E0 /* Pods-GrantInspection.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
